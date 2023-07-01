@@ -154,8 +154,6 @@ h2 {
   width: fit-content;
 }
 
-/* Rodapé */
-
 footer {
   border-bottom: 0;
   padding: 1rem 1.25rem 4rem;
@@ -179,7 +177,6 @@ footer nav a {
   width: 100%;
 }
 
-/* Utilitarios */
 .mt-1 {
   margin-top: 1rem;
 }
@@ -202,8 +199,6 @@ footer nav a {
 .text-center {
   text-align: center;
 }
-
-/* Responsividades */
 
 @media screen and (min-width: 40rem) {
   header nav {
