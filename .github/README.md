@@ -1,6 +1,6 @@
 <h1 align="center"> Landing Page </h1>
 <p align="center"> 
-Aulas gratuitas, promovidas pela OneBitCode para aprimorar conehecimentos. <br/>
+Aulas gratuitas, promovidas pela OneBitCode para aprimorar conhecimentos. <br/>
 <a href="https://pro.onebitcode.com/projetoaulas">Para acessar as aulas clique aqui</a>
 </p>
 <p align="center">
